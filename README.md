@@ -26,4 +26,4 @@ I'm an undergraduate Computer Science student at the University of Southern Miss
 - Contribute to collaborative and open-source projects
 
 
-📫 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/hanzla-hamid-b60551328)
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hanzla-hamid-b60551328)
