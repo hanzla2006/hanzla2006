@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Hi, I'm Hanzla 
 
 I'm an undergraduate Computer Science student at the University of Southern Mississippi with interests in software development, data analytics, and cybersecurity.
